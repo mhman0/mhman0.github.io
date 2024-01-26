@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\assets\\js",
-    "\\images"
+    "\\assets\\css",
+    "\\assets\\css\\images",
+    "\\assets\\css\\images\\ie",
+    "\\assets\\js"
   ],
+  "SelectedNode": "\\assets\\css\\main.css",
   "PreviewInSolutionExplorer": false
 }
