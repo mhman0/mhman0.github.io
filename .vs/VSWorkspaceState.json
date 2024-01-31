@@ -7,7 +7,10 @@
     "\\assets\\css\\images\\ie",
     "\\assets\\js",
     "\\assets\\sass",
+    "\\assets\\sass\\libs",
+    "\\assets\\webfonts",
     "\\images"
   ],
+  "SelectedNode": "\\images",
   "PreviewInSolutionExplorer": false
 }
